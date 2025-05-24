@@ -12,14 +12,18 @@ https://www.youtube.com/watch?v=PPs8xZQOnWQ
 1. Clone the repository
 
    git clone https://github.com/your-username/llm-preference-graph.git
+   
    cd llm-preference-graph
 
-2. Create a virtual environment (recommended but not a strict requirement)
+3. Create a virtual environment (recommended but not a strict requirement)
 
     python -m venv venv
+   
     source venv/bin/activate  # For Mac/Linux
+   
 # or
   venv\Scripts\activate     # For Windows
+  
 
 3. Install dependencies
 
