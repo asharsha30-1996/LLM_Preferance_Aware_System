@@ -37,3 +37,8 @@ https://www.youtube.com/watch?v=PPs8xZQOnWQ
    streamlit run app.py
 
 
+#Note:
+
+For enabling smileys, emoticons and for making the better UI, I used GPT 4o and applied them in app.py
+
+
