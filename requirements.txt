@@ -1,0 +1,6 @@
+streamlit
+ipykernel
+networkx
+openai==0.28
+python-dotenv
+matplotlib
