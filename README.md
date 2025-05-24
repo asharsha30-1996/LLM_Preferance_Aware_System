@@ -21,8 +21,7 @@ https://www.youtube.com/watch?v=PPs8xZQOnWQ
    
     source venv/bin/activate  # For Mac/Linux
    
-# or
-  venv\Scripts\activate     # For Windows
+    venv\Scripts\activate     # For Windows
   
 
 3. Install dependencies
